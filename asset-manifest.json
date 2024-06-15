@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MovieDB/static/css/main.4240a01e.css",
+    "main.js": "/MovieDB/static/js/main.e3fd4c95.js",
+    "static/media/slick.svg": "/MovieDB/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/MovieDB/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/MovieDB/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/MovieDB/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/MovieDB/index.html",
+    "main.4240a01e.css.map": "/MovieDB/static/css/main.4240a01e.css.map",
+    "main.e3fd4c95.js.map": "/MovieDB/static/js/main.e3fd4c95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4240a01e.css",
+    "static/js/main.e3fd4c95.js"
+  ]
+}
